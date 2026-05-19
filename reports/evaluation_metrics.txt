@@ -1,0 +1,5 @@
+Model Evaluation
+----------------
+MAE: 5.91
+RMSE: 7.70
+R²: 0.929
