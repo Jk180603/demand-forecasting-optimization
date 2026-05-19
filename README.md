@@ -73,14 +73,14 @@ reproducible ML workflows
 3. streamlit run app/dashboard.py(Run Dashboard)
 
 ## Docker
-docker build -t demand-forecasting-api .( Build Image)
+docker build -t demand-forecasting-api .( Build Image),
 docker run -p 8000:8000 demand-forecasting-api(Run Container)
 
 ## Business Impact
 This system helps businesses:
 
-improve inventory planning
-reduce stockout risk
-optimize reorder decisions
-forecast future product demand
-support operational decision making
+1. improve inventory planning
+2. reduce stockout risk
+3. optimize reorder decisions
+4. forecast future product demand
+5. support operational decision making
